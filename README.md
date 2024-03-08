@@ -11,7 +11,7 @@ GenderID-CLI is a command-line tool that uses the OpenAI API to identify gender 
 ## Disclaimer
 
 
-GenderID-CLI is primarily designed for languages with high gender differentiation in personal names, such as Italian, French, and German. Users should be aware that the accuracy of gender identification can vary significantly across languages and cultures. It is essential to understand that:
+GenderID-CLI is primarily designed for languages with high gender differentiation in personal names, such as Italian, French, and German. Users should be aware that the accuracy of gender identification can vary significantly across languages and cultures. It is essential to understand the limitations of this tool and the complexity of this topic.
 
 - **Not Definitive or Comprehensive**: The results provided by GenderID-CLI are based on patterns and data that may not encompass all cultural or linguistic nuances. Therefore, any identification should not be taken at face value and should be used as an initial guideline rather than a definitive classification.
 
