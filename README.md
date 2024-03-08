@@ -15,9 +15,9 @@ GenderID-CLI is primarily designed for languages with high gender differentiatio
 
 - **Not Definitive or Comprehensive**: The results provided by GenderID-CLI are based on patterns and data that may not encompass all cultural or linguistic nuances. Therefore, any identification should not be taken at face value and should be used as an initial guideline rather than a definitive classification.
 
--**Recognition of Gender Diversity**: Gender is a complex and multifaceted aspect of identity that cannot be fully captured by binary categorizations. GenderID-CLI performs a specific, limited task based on the input data and the current capabilities of Generative AI. This tool is not intended to define or limit the spectrum of gender identity.
+- **Recognition of Gender Diversity**: Gender is a complex and multifaceted aspect of identity that cannot be fully captured by binary categorizations. GenderID-CLI performs a specific, limited task based on the input data and the current capabilities of Generative AI. This tool is not intended to define or limit the spectrum of gender identity.
 
--**Cultural Sensitivity and Respect**: Users are encouraged to apply these results with cultural sensitivity and respect for individuals' gender identities. This tool is not designed for making personal or policy decisions that affect individuals' lives or rights.
+- **Cultural Sensitivity and Respect**: Users are encouraged to apply these results with cultural sensitivity and respect for individuals' gender identities. This tool is not designed for making personal or policy decisions that affect individuals' lives or rights.
 
 GenderID-CLI aims to assist in tasks where gender inference from names is relevant, but it is crucial to use this tool responsibly, considering its limitations and the broader context of gender diversity and inclusivity.
 
