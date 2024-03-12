@@ -5,6 +5,7 @@ GenderID-CLI is a command-line tool that uses the OpenAI API to identify gender 
 
 - **Ease of Use**: Simple CLI interface for straightforward execution. Users can specify the API key and the column name containing personal names for processing.
 - **OpenAI Integration**: Directly utilizes the OpenAI API for LLM-based gender identification.
+- **Nationality definition*: The prompt can be customized by adding the nationality when prompted in the command line
   
 
 
