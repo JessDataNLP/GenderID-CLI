@@ -1,5 +1,5 @@
 # GenderID-CLI
-GenderID-CLI is a command-line tool that uses the OpenAI API to identify gender based on personal names. With just an API key and the name of the column containing personal names, GenderID-CLI automatically appends a new column to your dataset containing gender identification (Male/Female)
+GenderID-CLI is a command-line tool that uses the OpenAI API with ChatGPT-3.5 to identify gender based on personal names. With just an API key and the name of the column containing personal names, GenderID-CLI automatically appends a new column to your dataset containing gender identification (Male/Female)
 
 ## Features
 
@@ -12,7 +12,7 @@ GenderID-CLI is a command-line tool that uses the OpenAI API to identify gender 
 ## Disclaimer
 
 
-GenderID-CLI is primarily designed for languages with high gender differentiation in personal names, such as Italian, French, and German. Users should be aware that the accuracy of gender identification can vary significantly across languages and cultures. Thus this tools has evident limitations.
+GenderID-CLI is primarily designed for languages with high gender differentiation in personal names, such as Italian, French, and German. Users should be aware that the accuracy of gender identification can vary significantly across languages and cultures. Thus this tools has evident limitations. Things to take in consideration:
 
 - **Not Definitive or Comprehensive**: The results provided by GenderID-CLI are based ondata that may not encompass all cultural or linguistic nuances. Therefore, any identification should not be taken at face value and should be used as an initial guideline rather than a definitive classification.
 
@@ -22,9 +22,11 @@ GenderID-CLI is primarily designed for languages with high gender differentiatio
 
 GenderID-CLI aims to assist in tasks where gender inference from names is relevant, but it is crucial to use this tool responsibly, considering its limitations and the broader context of gender diversity and inclusivity.
 
+Another important point is that the scripts makes an API call for each row, thus API usage must be considered. 
+
 ## Getting Started
 
-To get started with GenderID-CLI, clone the repository, set up your environment with the required dependencies, and you're ready to add gender identification to your datasets with just a few commands.
+To get started with GenderID-CLI, clone the repository, set up your environment with the required dependencies, get access to OpenAI APIs and you're ready to add gender identification to your datasets with just a few commands.
 
 ## Contribution
 
