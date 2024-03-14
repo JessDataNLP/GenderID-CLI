@@ -1,5 +1,5 @@
 # GenderID-CLI
-GenderID-CLI is a command-line tool that uses the OpenAI API with ChatGPT-3.5 to identify gender based on personal names. With just an API key and the name of the column containing personal names, GenderID-CLI automatically appends a new column to your dataset containing gender identification (Male/Female)
+GenderID-CLI is a command-line tool that uses the OpenAI API with ChatGPT-3.5 to identify gender based on personal names in structured tabular data (works with CSV). With just an API key and the name of the column containing personal names, GenderID-CLI automatically appends a new column to your dataset containing gender identification (Male/Female)
 
 ## Features
 
